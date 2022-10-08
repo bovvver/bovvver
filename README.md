@@ -4,4 +4,4 @@ My name is Jakub, and I am novice programmer aspiring to be junior front-end dev
 
 🔭 I’m currently working on React and it's ecosystem.
 
-If you fing my job intresting, please send me a message!
+If you find my job intresting, please send me a message!
