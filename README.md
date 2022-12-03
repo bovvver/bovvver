@@ -4,6 +4,6 @@ My name is Jakub, and I am novice programmer aspiring to be junior front-end dev
 
 🔭 I’m currently working on React and it's ecosystem.
 
-⭐ Project in progress: [connect-four 🔴🟡](https://github.com/MemeeMaster/connect-four)
+⭐ Project in progress: [recipe-app2 🍕🍟](https://github.com/MemeeMaster/recipe-app2)
 
 If you find my job intresting, please send me a message!
