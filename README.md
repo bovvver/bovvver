@@ -2,7 +2,7 @@
 
 My name is Jakub, and I am novice programmer aspiring to be junior front-end developer. I post my work here sometimes so definitely check it out!
 
-🔭 I’m currently working on Material UI.
+🔭 I’m currently working on Java ☕.
 
 ⭐ Last project: [recipe-app2 🍕🍟](https://github.com/MemeeMaster/recipe-app2)
 
