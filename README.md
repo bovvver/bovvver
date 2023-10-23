@@ -17,7 +17,7 @@ If you find my job intresting, please send me a message!
 Content about **games**<br>
 - [connect-four](https://memeemaster.github.io/connect-four/) [LIVE]<br>
 - [gamer-inc](https://memeemaster.github.io/gamerinc-project/) [LIVE]<br>
-- [gamehelper](https://github.com/MemeeMaster/sneaker-store) (probably won't be developed. It will be rebuilt for **Java**)<br>
+- [gamehelper](https://github.com/MemeeMaster/gamehelper) (probably won't be developed. It will be rebuilt for **Java**)<br>
 
 **Older** content. Mostly **Front-end** landing pages and apps etc<br>
 - [LifeGuard](https://memeemaster.github.io/lifeguard/) [LIVE]<br>
