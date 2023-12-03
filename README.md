@@ -12,7 +12,7 @@ If you find my job intresting, please send me a message!
 
 **Full-Stack** projects<br>
 - [sneaker-store](https://github.com/MemeeMaster/sneaker-store)<br>
-- [Fireshot](https://github.com/MemeeMaster/fireshot) 🚧 WORK IN PROGRESS 🚧<br>
+- [Fireshot](https://github.com/MemeeMaster/fireshot)
 - [Dogs Stars](https://github.com/MemeeMaster/training) (training project)<br>
 
 Content about **games**<br>
