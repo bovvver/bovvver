@@ -3,7 +3,7 @@
 
 My name is Jakub, and I am novice programmer aspiring to be full-stack developer in the future. I post my work here sometimes so definitely check it out!
 
-🔭 I’m currently working on Spring Boot 🍀 / React ⚛ + TS.<br>
+🔭 I’m currently working on Python & Django 🐍<br>
 ⭐ Last project: [sneaker-store 👟](https://github.com/MemeeMaster/sneaker-store)<br>
 🚧 Current project: [Fireshot 🔥](https://github.com/MemeeMaster/fireshot) (Instagram imitation)<br>
 👨‍💻 LeetCode solutions: [LeetCode](https://github.com/MemeeMaster/LeetCode-solutions)<br>
