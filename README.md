@@ -3,10 +3,10 @@
 
 My name is Jakub, and I am novice programmer aspiring to be full-stack developer in the future. I post my work here sometimes so definitely check it out!
 
-🔭 I’m currently working on Python & Django 🐍<br>
+🔭 I’m currently working on C# & .NET #️<br>
 ⭐ Last project: [Fireshot 🔥](https://github.com/MemeeMaster/fireshot) (Instagram imitation)<br>
-🚧 Current project: [Banking System 🏦](https://github.com/MemeeMaster/banking-system)<br>
 👨‍💻 LeetCode solutions: [LeetCode](https://github.com/MemeeMaster/LeetCode-solutions)<br>
+<!--🚧 Current project: [Title](link)<br> -->
 
 If you find my job intresting, please send me a message!
 
