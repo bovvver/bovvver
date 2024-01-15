@@ -1,29 +1,54 @@
 
 ### Hello! It's good to see you! 👋
 
-My name is Jakub, and I am novice programmer aspiring to be full-stack developer in the future. I post my work here sometimes so definitely check it out!
+My name is Jakub, and I am junior programmer aspiring to be full-stack developer in the future. I post my work here sometimes so definitely check it out!
 
-🔭 I’m currently working on C# & .NET #️<br>
-⭐ Last project: [Fireshot 🔥](https://github.com/MemeeMaster/fireshot) (Instagram imitation)<br>
-👨‍💻 LeetCode solutions: [LeetCode](https://github.com/MemeeMaster/LeetCode-solutions)<br>
-<!--🚧 Current project: [Title](link)<br> -->
+🚀 **Exploring new tech:** C# & .NET #️\
+⭐ **Last project:** [Fireshot 🔥](https://github.com/MemeeMaster/fireshot) (Instagram imitation)\
+🎓 **Learning:** Always eager to learn and grow\
+📫 **Let's connect:** Feel free to reach out for discussions, code reviews, or just a chat
 
 If you find my job intresting, please send me a message!
+<hr>
 
-**Full-Stack** projects<br>
-- [sneaker-store](https://github.com/MemeeMaster/sneaker-store)<br>
-- [Fireshot](https://github.com/MemeeMaster/fireshot)
-- [Dogs Stars](https://github.com/MemeeMaster/training) (training project)<br>
+### 👨🏻‍💻 &nbsp;Tech Stack
 
-Content about **games**<br>
-- [connect-four](https://memeemaster.github.io/connect-four/) [LIVE]<br>
-- [gamer-inc](https://memeemaster.github.io/gamerinc-project/) [LIVE]<br>
-- [gamehelper](https://github.com/MemeeMaster/gamehelper) (probably won't be developed. It will be rebuilt for **Java**)<br>
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=openJDK&logoColor=white)&nbsp;
+![Spring Boot](https://img.shields.io/badge/-SpringBoot-05122A?style=flat&logo=SpringBoot)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL&logoColor=white)\
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=JavaScript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=TypeScript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-React-05122A?style=flat&logo=React)\
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python)&nbsp;
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=Django)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)\
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![SCSS](https://img.shields.io/badge/-SCSS-05122A?style=flat&logo=SASS&logoColor=c14181)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
+![MUI](https://img.shields.io/badge/-MUI-05122A?style=flat&logo=MUI)&nbsp;
+![npm](https://img.shields.io/badge/-npm-05122A?style=flat&logo=npm)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker)
 
-**Older** content. Mostly **Front-end** landing pages and apps etc<br>
-- [LifeGuard](https://memeemaster.github.io/lifeguard/) [LIVE]<br>
-- [YourNotes](https://memeemaster.github.io/yournotes-project/) [LIVE]<br>
-- [PartyLovers](https://memeemaster.github.io/partylovers-project/) [LIVE]<br>
-- [DogsTakeAway](https://memeemaster.github.io/dogstakeaway-project/) [LIVE]<br>
+![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=Windows)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Linux)\
+![Apache 2](https://img.shields.io/badge/-Apache2-05122A?style=flat&logo=Apache)&nbsp;
+![NGINX](https://img.shields.io/badge/-NGINX-05122A?style=flat&logo=NGINX)&nbsp;
 
-.. and more! 😄
+**Currently learning / Planned:**
+
+![C#](https://img.shields.io/badge/-Csharp-05122A?style=flat&logo=Csharp)&nbsp;
+![DOTNET](https://img.shields.io/badge/-.NET-05122A?style=flat&logo=DOTNET)&nbsp;
+![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=Amazon&logoColor=white)&nbsp;
+![Solidity](https://img.shields.io/badge/-Solidity-05122A?style=flat&logo=Solidity)&nbsp;
+<hr>
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=MemeeMaster&layout=compact&theme=tokyonight&hide=scss,html,css" />
+  </a>
+</div>
+
+
+
+
