@@ -4,7 +4,7 @@
 My name is Jakub, and I am full-stack developer. I post my work here sometimes so definitely check it out!
 
 🚀 **Exploring new tech:** C# & .NET #️\
-⭐ **Last project:** [Fireshot 🔥](https://github.com/MemeeMaster/fireshot) (Instagram imitation)\
+⭐ **Last project:** [Fireshot 🔥](https://github.com/bovvver/fireshot) (Instagram imitation)\
 🎓 **Learning:** Always eager to learn and grow\
 📫 **Let's connect:** Feel free to reach out for discussions, code reviews, or just a chat
 
@@ -45,7 +45,7 @@ If you find my job intresting, please send me a message!
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=MemeeMaster&layout=compact&theme=tokyonight&hide=scss,html,css" />
+    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=bovvver&layout=compact&theme=tokyonight&hide=scss,html,css" />
   </a>
 </div>
 
