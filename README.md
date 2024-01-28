@@ -1,7 +1,7 @@
 
 ### Hello! It's good to see you! 👋
 
-My name is Jakub, and I am junior programmer aspiring to be full-stack developer in the future. I post my work here sometimes so definitely check it out!
+My name is Jakub, and I am full-stack developer. I post my work here sometimes so definitely check it out!
 
 🚀 **Exploring new tech:** C# & .NET #️\
 ⭐ **Last project:** [Fireshot 🔥](https://github.com/MemeeMaster/fireshot) (Instagram imitation)\
