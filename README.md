@@ -3,7 +3,7 @@
 
 My name is Jakub, and I am full-stack developer. I post my work here sometimes so definitely check it out!
 
-🚀 **Exploring new tech:** C# & .NET #️\
+🚀 **Exploring new tech:** PHP & Laravel 🐘\
 ⭐ **Last project:** [Fireshot 🔥](https://github.com/bovvver/fireshot) (Instagram imitation)\
 🎓 **Learning:** Always eager to learn and grow\
 📫 **Let's connect:** Feel free to reach out for discussions, code reviews, or just a chat
@@ -37,8 +37,9 @@ If you find my job intresting, please send me a message!
 
 **Currently learning / Planned:**
 
-![C#](https://img.shields.io/badge/-Csharp-05122A?style=flat&logo=Csharp)&nbsp;
-![DOTNET](https://img.shields.io/badge/-.NET-05122A?style=flat&logo=DOTNET)&nbsp;
+![PHP](https://img.shields.io/badge/-php-05122A?style=flat&logo=php)&nbsp;
+![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=Laravel)&nbsp;
+![GO](https://img.shields.io/badge/-GO-05122A?style=flat&logo=go)&nbsp;
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=Amazon&logoColor=white)&nbsp;
 ![Solidity](https://img.shields.io/badge/-Solidity-05122A?style=flat&logo=Solidity)&nbsp;
 <hr>
