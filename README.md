@@ -46,7 +46,7 @@ If you find my job intresting, please send me a message!
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=bovvver&layout=compact&theme=tokyonight&hide=scss,html,css" />
+    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=bovvver&layout=compact&theme=tokyonight&hide=scss,html,css,blade" />
   </a>
 </div>
 
