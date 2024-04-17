@@ -35,10 +35,14 @@ If you find my job intresting, please send me a message!
 ![Apache 2](https://img.shields.io/badge/-Apache2-05122A?style=flat&logo=Apache)&nbsp;
 ![NGINX](https://img.shields.io/badge/-NGINX-05122A?style=flat&logo=NGINX)&nbsp;
 
-**Currently learning / Planned:**
+**Currently learning:**
 
 ![PHP](https://img.shields.io/badge/-php-05122A?style=flat&logo=php)&nbsp;
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=Laravel)&nbsp;
+![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue.js)&nbsp;
+
+**Planned:**
+
 ![GO](https://img.shields.io/badge/-GO-05122A?style=flat&logo=go)&nbsp;
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=Amazon&logoColor=white)&nbsp;
 ![Solidity](https://img.shields.io/badge/-Solidity-05122A?style=flat&logo=Solidity)&nbsp;
