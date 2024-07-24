@@ -4,7 +4,7 @@
 My name is Jakub, and I am full-stack developer. I post my work here sometimes so definitely check it out!
 
 🚀 **Exploring new tech:** PHP & Laravel 🐘\
-⭐ **Last project:** [Fireshot 🔥](https://github.com/bovvver/fireshot) (Instagram imitation)\
+⭐ **Last project:** [Trinity Bank 💵](https://github.com/bovvver/trinitybank) (Banking Page)\
 🎓 **Learning:** Always eager to learn and grow\
 📫 **Let's connect:** Feel free to reach out for discussions, code reviews, or just a chat
 
