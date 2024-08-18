@@ -3,7 +3,7 @@
 
 My name is Jakub, and I am full-stack developer. I post my work here sometimes so definitely check it out!
 
-🚀 **Exploring new tech:** Go 🦫\
+🚀 **Exploring new tech:** C++ 🛠️\
 ⭐ **Last project:** [Trinity Bank 💵](https://github.com/bovvver/trinitybank) (Banking Page)\
 🎓 **Learning:** Always eager to learn and grow\
 📫 **Let's connect:** Feel free to reach out for discussions, code reviews, or just a chat
@@ -41,10 +41,11 @@ If you find my job intresting, please send me a message!
 
 **Currently learning:**
 
-![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus)&nbsp;
 
 **Planned:**
 
+![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)&nbsp;
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=Amazon&logoColor=white)&nbsp;
 ![Solidity](https://img.shields.io/badge/-Solidity-05122A?style=flat&logo=Solidity)&nbsp;
 <hr>
