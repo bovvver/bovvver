@@ -3,7 +3,7 @@
 
 My name is Jakub, and I am full-stack developer. I post my work here sometimes so definitely check it out!
 
-🚀 **Exploring new tech:** C++ 🛠️\
+🚀 **Exploring new tech:** grinding Python and Java 🛠️\
 ⭐ **Last project:** [Trinity Bank 💵](https://github.com/bovvver/trinitybank) (Banking Page)\
 🎓 **Learning:** Always eager to learn and grow\
 📫 **Let's connect:** Feel free to reach out for discussions, code reviews, or just a chat
