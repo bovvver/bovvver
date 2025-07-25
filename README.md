@@ -3,8 +3,9 @@
 
 My name is Jakub, and I am full-stack developer. I post my work here sometimes so definitely check it out!
 
-🚀 **Exploring new tech:** grinding Python and Java 🛠️\
+🚀 **Exploring new tech:** grinding clean code / DDD architecture 🛠️\
 ⭐ **Last project:** [Trinity Bank 💵](https://github.com/bovvver/trinitybank) (Banking Page)\
+🚧 **Current project:** [Local Services Platform 🛠](https://github.com/bovvver/local-services-platform) (Microservice platform for services in your city)\
 🎓 **Learning:** Always eager to learn and grow\
 📫 **Let's connect:** Feel free to reach out for discussions, code reviews, or just a chat
 
@@ -41,7 +42,7 @@ If you find my job intresting, please send me a message!
 
 **Currently learning:**
 
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus)&nbsp;
+![Clean architecture](https://img.shields.io/badge/-DDD-05122A?style=flat&logo=openJDK&logoColor=white)&nbsp;
 
 **Planned:**
 
