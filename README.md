@@ -54,9 +54,6 @@ If you find my job intresting, please send me a message!
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=bovvver&layout=compact&theme=tokyonight&hide=scss,html,css,blade" />
-  </a>
+  </a>&nbsp;
+  ![](https://komarev.com/ghpvc/?username=bovvver&color=brightgreen&style=for-the-badge&label=PROFILE+VIEWS)
 </div>
-
-![](https://komarev.com/ghpvc/?username=bovvver)
-
-
