@@ -10,6 +10,9 @@ My name is Jakub, and I am full-stack developer. I post my work here sometimes s
 📫 **Let's connect:** Feel free to reach out for discussions, code reviews, or just a chat
 
 If you find my job intresting, please send me a message!
+
+![](https://komarev.com/ghpvc?username=bovvver&color=brightgreen&style=for-the-badge&label=PROFILE+VIEWS)
+
 <hr>
 
 ### 👨🏻‍💻 &nbsp;Tech Stack
@@ -54,6 +57,5 @@ If you find my job intresting, please send me a message!
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=bovvver&layout=compact&theme=tokyonight&hide=scss,html,css,blade" />
-  </a>&nbsp;
-  ![](https://komarev.com/ghpvc/?username=bovvver&color=brightgreen&style=for-the-badge&label=PROFILE+VIEWS)
+  </a>
 </div>
